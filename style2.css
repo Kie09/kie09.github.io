@@ -1,0 +1,96 @@
+.container-fluid {
+    padding: 0px;
+}
+
+.navbar {
+    padding: 5px;
+    height: 15vh;
+    font-size: 30px;
+}
+
+.navbar-brand {
+    font-size: 35px;
+}
+
+.nav-item {
+    margin: 10px;
+}
+
+#header {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Loki Hero Image.jpeg");
+    height: 85vh;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 200px;
+}
+
+h1 {
+   font-size: 100px;
+    text-align: center;
+}
+
+.fancy {
+    font-weight: bold;
+    text-shadow: 2px 4px 3px green ;
+    font-size: 50px;
+  }
+
+body {
+    background-color: #ECF39E;
+    font-family: "Chewy", system-ui;
+}
+
+p {
+    font-size: 20px;
+}
+
+.green {
+    color: green;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 20px;
+  }
+  
+  th {
+    font-size: 20px;
+    background-color: green;
+  }
+
+  
+ 
+  .card-body {
+    width: 30%
+  }
+
+  footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+   
+    background-color: green;
+    padding: 10px;
+  }
+
+  .listyList ul li {
+    margin-left: -10px;
+    padding-left: 30px;
+    background-image: url(DogPaw.png);
+    background-position: 0 0;
+    background-size: 1rem 1rem;
+    background-repeat: no-repeat;
+    list-style-type: none;
+    font-size: 20px;
+  
+  }
